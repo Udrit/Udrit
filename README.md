@@ -1,5 +1,6 @@
 💫 About Me:
-Software development<br>Web design<br> IT services<br>Network security engineer<br>Security analyst<br>Information security analyst<br>Security consultant<br>Penetration tester<br>IT auditor<br>Risk management<br>Compliance specialist
+
+<br>Software development<br>Web design<br> IT services<br>Network security engineer<br>Security analyst<br>Information security analyst<br>Security consultant<br>Penetration tester<br>IT auditor<br>Risk management<br>Compliance specialist
 
 
 💻 Tech Stack:
